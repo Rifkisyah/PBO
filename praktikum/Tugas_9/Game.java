@@ -1,13 +1,5 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
 package praktikum.Tugas_9;
 
-/**
- *
- * @author jarkom-2
- */
 public class Game extends Produk{
     int waktu_main;
     
@@ -31,5 +23,4 @@ public class Game extends Produk{
         }
         
     }
-    
 }

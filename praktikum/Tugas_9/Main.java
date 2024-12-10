@@ -1,18 +1,10 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
 package praktikum.Tugas_9;
 
-/**
- *
- * @author jarkom-2
- */
 public class Main {
     static void soal1(){
         Hewan hewan = new Hewan();
         
-        System.out.println("Macam-macam " + hewan.nama + " : ");
+        System.out.println("Macam-macam hewan");
         hewan.hewanBerkakiDua();
         hewan.hewanBerkakiEnam();
         hewan.hewanBerkakiEmpat();
@@ -63,5 +55,10 @@ public class Main {
     
     public static void main(String[] args) {
         soal1();
+        soal2();
+        soal3();
+        soal4();
+        soal5();
+        soal6();
     }
 }
